@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-console.log("Testador de conflito");
-=======
-console.log("Teste de conflito");
->>>>>>> 5383191448b303606dbdaabefa893869b022aca0
 const fs = require('fs')
 const path = require('path');
 const usuariosPath = path.join(__dirname, '../data/usuarios.json');
