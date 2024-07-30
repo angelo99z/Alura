@@ -1,4 +1,4 @@
-console.log("Tarefa Alura");
+console.log("Testador de conflito");
 const fs = require('fs')
 const path = require('path');
 const usuariosPath = path.join(__dirname, '../data/usuarios.json');
